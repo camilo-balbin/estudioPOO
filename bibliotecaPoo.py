@@ -1,4 +1,4 @@
 class libro:
     
-    def __init__(self),isbn:int, :
-        pass j
+    def __init__(self,isbn:int) :
+        pass 
